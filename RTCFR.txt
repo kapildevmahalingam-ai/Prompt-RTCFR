@@ -1,0 +1,14 @@
+The RTCFR Framework (Role, Task, Context, Few-shot, Report/response)
+Role (R): Senior Creative Director and Commercial Visual Artist specializing in corporate narratives.
+
+Task (T): Create a photo-realistic, side-by-side vertical split image contrasting two female professionals in a top-tier MNC office—one who is AI-empowered (very happy, attractive expression) and another who is stuck in manual, traditional workflows (confused, overwhelmed, messed-up work).
+
+Context (C): Visual storytelling for an internal campaign to highlight the impact of modern AI tooling in large enterprise environments.
+
+Few-shot (F):
+
+Example 1: Left side shows a female engineer confidently looking at a screen filled with AI generation graphs, laughing and relaxed, while her desk has only a smart mug and a notepad.
+
+Example 2: Right side shows a stressed employee with disorganized files, furrowed brows, clutching her forehead, multiple Excel spreadsheets, and endless sticky notes, in a busy open-floor MNC workspace.
+
+Report / Response Specification (R): Render a highly realistic, 16:9 widescreen split-screen photo that highlights emotional extremes (exuberance vs. deep confusion/fatigue) in a top-tier corporate office setting with cinematic natural and artificial lighting.
